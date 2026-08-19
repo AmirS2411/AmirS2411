@@ -18,6 +18,7 @@ I enjoy building with AI because it connects strategy with execution. A good ide
 
 | Project | What it is | Tech |
 | --- | --- | --- |
+| [Amiros RT Promter](https://floral-harbor-4vhr.here.now/) | privacy-first macOS teleprompter with Sound and Voice scrolling, editable topic-based speaking mode, and English/Hebrew RTL support | Swift |
 | [Prompt Enricher](https://github.com/AmirS2411/prompt-enricher) | macOS menu-bar app for instantly improving copied text with AI | Swift |
 | [Amir's Accent Coach](https://github.com/AmirS2411/amirs-accent-coach) | accent coaching project | Not specified |
 | [AIA 2026 Card Generator](https://github.com/AmirS2411/aia-2026-card-generator) | card generator for AIA 2026 workflows | HTML |
@@ -45,7 +46,7 @@ I enjoy building with AI because it connects strategy with execution. A good ide
 | --- | --- |
 | Main focus | AI tools, marketing systems, dashboards, and automation |
 | Most used stack in public repos | Swift, HTML, JavaScript, Python, TypeScript |
-| Recent build | Prompt Enricher, a macOS AI writing utility |
+| Recent build | Amiros RT Promter, a privacy-first macOS speaking and presentation utility |
 | Product style | Small useful tools, fast prototypes, and practical dashboards |
 
 ## Links
