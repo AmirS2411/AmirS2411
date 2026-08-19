@@ -39,11 +39,14 @@ I enjoy building with AI because it connects strategy with execution. A good ide
 | [OpenScreen](https://github.com/AmirS2411/openscreen) | fork of an open-source demo creation tool | TypeScript |
 | [Benevolent Agents RFC](https://github.com/AmirS2411/BenevolentAgentsRFC) | fork documenting agent cooperation ideas | Python |
 
-## GitHub activity
+## GitHub snapshot
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirS2411&show_icons=true&theme=default&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirS2411&layout=compact&hide_border=true)
+| Area | Signal |
+| --- | --- |
+| Main focus | AI tools, marketing systems, dashboards, and automation |
+| Most used stack in public repos | Swift, HTML, JavaScript, Python, TypeScript |
+| Recent build | Prompt Enricher, a macOS AI writing utility |
+| Product style | Small useful tools, fast prototypes, and practical dashboards |
 
 ## Links
 
