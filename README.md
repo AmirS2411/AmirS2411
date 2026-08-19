@@ -1,4 +1,4 @@
-# Hi, I am Amir Shneider
+# Hi, I am Amir Shneider a Marketing and AI Builder
 
 I am a marketing and AI builder focused on turning ideas into practical products, automations, dashboards, and workflows.
 
