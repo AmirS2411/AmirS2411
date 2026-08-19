@@ -1,13 +1,18 @@
 # Hi, I am Amir Shneider
 
-I build practical AI tools, marketing systems, dashboards, and lightweight product experiments. My work usually sits at the intersection of automation, growth, data, and user experience.
+I am a marketing and AI builder focused on turning ideas into practical products, automations, dashboards, and workflows.
+
+My professional background is in marketing, growth, and go-to-market execution, with hands-on work across content, acquisition, analytics, customer journeys, and business operations. I use AI as a building layer, not just as a writing tool: I design, prototype, and ship useful systems that help teams move faster, understand performance, and create better customer experiences.
+
+I enjoy building with AI because it connects strategy with execution. A good idea can become a working tool, a campaign system, a dashboard, or a product experiment in days instead of months.
 
 ## What I am focused on
 
-- AI assisted productivity tools for everyday workflows
-- Marketing automation and live business dashboards
+- AI products and agents for real business workflows
+- Marketing automation, growth systems, and live dashboards
+- Tools that connect content, data, operations, and customer experience
 - Small macOS and web utilities that remove repetitive work
-- Experiments with agents, content systems, and customer-facing AI products
+- Fast product experiments built with AI from idea to working prototype
 
 ## Recent public projects
 
